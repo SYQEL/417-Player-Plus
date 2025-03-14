@@ -5,7 +5,7 @@
 **417 Player Plus** is an advanced music player that **retunes any local audio file in real-time** to **417 Hz and other Solfeggio Frequencies**, empowering you to experience music in a deeply transformative way.  
 
 🔥 **Key Features:**  
-- ✅ **Real-Time Audio Retuning** – Convert any track to **417 Hz, 432 Hz, 528 Hz**, and more.  
+- ✅ **Real-Time Audio Retuning** – Convert any track to **417 Hz.
 - ✅ **Lossless & High-Quality Audio Support** – Play **FLAC, WAV, MP3**, and other formats.  
 - ✅ **Custom Frequency Adjustments** – Fine-tune your audio for **optimal resonance**.  
 - ✅ **Simple & Intuitive Interface** – Easy-to-use controls for effortless playback.  
